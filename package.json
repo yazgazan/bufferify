@@ -1,0 +1,27 @@
+{
+  "name": "bufferify",
+  "version": "0.0.1",
+  "description": "Bufferify is a browserify transform allowing to require text file as buffers",
+  "main": "bufferify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yazgazan/bufferify.git"
+  },
+  "keywords": [
+    "buffer",
+    "browserify",
+    "transform"
+  ],
+  "author": "yazgazan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yazgazan/bufferify/issues"
+  },
+  "homepage": "https://github.com/yazgazan/bufferify",
+  "dependencies": {
+    "through2": "^0.6.5"
+  }
+}
